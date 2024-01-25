@@ -1,0 +1,35 @@
+body {
+    margin: auto;
+    width: 80%;
+    background-color: gainsboro;
+    text-align: center;
+    font-family: "Oxygen", sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: "Rubik Burned", system-ui;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+table {
+    margin:auto;
+    border: 1px solid;
+}
+
+.center {
+    background-color: white;
+    padding: 20px;
+}
+
+.float {
+    float: left;
+}
+
+.c1 {
+    
+}
